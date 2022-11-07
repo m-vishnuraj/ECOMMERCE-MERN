@@ -1,4 +1,6 @@
 ECOMMERCE-MERN
 ## client (react-app)
-### packages =>
+### packages
 - npm i react-router-dom
+- 
+### pages
